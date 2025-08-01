@@ -48,7 +48,7 @@ require (
 	github.com/samber/lo v1.24.0
 	github.com/sosedoff/gitkit v0.3.0
 	github.com/spf13/cobra v1.5.0
-	github.com/spf13/pflag v1.0.5
+	github.com/spf13/pflag v1.0.7
 	github.com/spf13/viper v1.8.1
 	github.com/stretchr/testify v1.8.0
 	github.com/testcontainers/testcontainers-go v0.13.0
