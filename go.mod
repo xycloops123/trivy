@@ -38,12 +38,12 @@ require (
 	github.com/bmatcuk/doublestar/v4 v4.9.0
 	github.com/cenkalti/backoff/v4 v4.3.0
 	github.com/cheggaaa/pb/v3 v3.1.7
-	github.com/containerd/containerd/v2 v2.1.3
+	github.com/containerd/containerd/v2 v2.1.4
 	github.com/containerd/platforms v1.0.0-rc.1
 	github.com/distribution/reference v0.6.0
-	github.com/docker/cli v28.3.2+incompatible
-	github.com/docker/docker v28.3.3+incompatible
-	github.com/docker/go-connections v0.5.0
+	github.com/docker/cli v28.5.1+incompatible
+	github.com/docker/docker v28.5.1+incompatible
+	github.com/docker/go-connections v0.6.0
 	github.com/docker/go-units v0.5.0
 	github.com/fatih/color v1.18.0
 	github.com/go-git/go-git/v5 v5.16.2
@@ -84,7 +84,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/hashstructure/v2 v2.0.2
 	github.com/mitchellh/mapstructure v1.5.0
-	github.com/moby/buildkit v0.23.2
+	github.com/moby/buildkit v0.25.1
 	github.com/moby/docker-image-spec v1.3.1
 	github.com/open-policy-agent/opa v1.6.0
 	github.com/opencontainers/go-digest v1.0.0
@@ -115,7 +115,7 @@ require (
 	github.com/xlab/treeprint v1.2.0
 	github.com/zclconf/go-cty v1.16.3
 	github.com/zclconf/go-cty-yaml v1.1.0
-	go.etcd.io/bbolt v1.4.2
+	go.etcd.io/bbolt v1.4.3
 	golang.org/x/crypto v0.40.0
 	golang.org/x/mod v0.26.0
 	golang.org/x/net v0.42.0
@@ -124,7 +124,7 @@ require (
 	golang.org/x/text v0.27.0
 	golang.org/x/vuln v1.1.4
 	golang.org/x/xerrors v0.0.0-20240716161551-93cc26a95ae9
-	google.golang.org/protobuf v1.36.6
+	google.golang.org/protobuf v1.36.9
 	gopkg.in/yaml.v3 v3.0.1
 	helm.sh/helm/v3 v3.18.4
 	k8s.io/api v0.33.3
@@ -436,7 +436,7 @@ require (
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.60.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.61.0 // indirect
 	go.opentelemetry.io/otel v1.36.0 // indirect
-	go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetricgrpc v1.32.0 // indirect
+	go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetricgrpc v1.35.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.36.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.36.0 // indirect
 	go.opentelemetry.io/otel/metric v1.36.0 // indirect
